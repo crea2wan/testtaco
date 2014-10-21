@@ -9,3 +9,6 @@ class AppCache extends HttpCache
 }
 
 class Toto{}
+
+
+class TTTT{}
